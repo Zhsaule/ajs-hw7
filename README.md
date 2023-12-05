@@ -1,4 +1,5 @@
 # Домашнее задание к лекции «Регулярные выражения»
+[![Build status](https://ci.appveyor.com/api/projects/status/i6yqf8muw1bwh4rh/branch/main?svg=true)](https://ci.appveyor.com/project/Zhsaule/ajs-hw7/branch/main)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
